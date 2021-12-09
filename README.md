@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZisanAalam
-- 👀 I’m interested in java/python web/software development
+- 👀 I’m interested in java/python software development
 - 🌱 I’m currently learning java/python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
