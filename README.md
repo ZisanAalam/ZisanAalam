@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZisanAalam
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java/python/javascript
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
